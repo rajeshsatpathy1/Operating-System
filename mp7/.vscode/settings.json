@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "file_system.C": "cpp",
+        "file.C": "cpp",
+        "file.H": "cpp",
+        "file_system.H": "cpp"
+    }
+}
